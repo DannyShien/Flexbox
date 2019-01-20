@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: gray; 
+    padding: 10px;
+    display: flex;
+    
+}
+.item {
+    background-color: pink;
+    padding: 40px; 
+    margin:  30px;
+    color: white;
+    font-size: 25px;
+}
